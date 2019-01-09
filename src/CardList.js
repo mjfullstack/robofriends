@@ -7,8 +7,8 @@ const CardList = ({ robots }) => {
     return ( <Card key={robots[idx].id} id={robots[idx].id} name={robots[idx].name} username={robots[idx].username} email={robots[idx].email} /> )
   })
   return (
-    <div>
-       {cardArray};
+    <div className="container w20">
+      {cardArray}
     </div>
   )
 };

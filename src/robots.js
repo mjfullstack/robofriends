@@ -71,16 +71,16 @@ export const robots = [
     username: 'JustMyLuck',
     email: "IfNotBadLuck@IdHaveNoLuckAtAll.org"
   },
-  {
-    id: 13,
-    name: 'Helga Thermister-Shultz',
-    username: 'SherwoodsBaby',
-    email: "CharliesMom@bythebeach.org"
-  },
-  {
-    id: 14,
-    name: "Mark",
-    username: "Tally",
-    email: "mlj@wastate.gov"
-  }
+  // {
+  //   id: 13,
+  //   name: 'Helga Thermister-Shultz',
+  //   username: 'SherwoodsBaby',
+  //   email: "CharliesMom@bythebeach.org"
+  // },
+  // {
+  //   id: 14,
+  //   name: "Mark",
+  //   username: "Tally",
+  //   email: "mlj@wastate.gov"
+  // }
 ]
