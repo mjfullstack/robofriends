@@ -4,6 +4,7 @@ body {
   /* padding-top: 7rem; */
 
   background-color: "light-blue";
+  background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -15,7 +16,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
+/* 
 #myTitle {
   text-align: left;
   background-color: "light-blue";
@@ -32,4 +33,4 @@ code {
     float: none;
     display: inline-block;
 }
-
+ */

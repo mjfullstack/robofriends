@@ -1,10 +1,11 @@
 import React from "react";
-// import './FixedNavbar.css';
+import './RoboTitle.css';
+
 
 function RoboTitle() {
   return (
     <div>
-      <h1>ROBO FRIENDS</h1>
+      <h1 className="f1">ROBO FRIENDS</h1>
     </div>
   );
 }

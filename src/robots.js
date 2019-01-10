@@ -67,20 +67,29 @@ export const robots = [
   },
   {
     id: 12,
+    name: 'Patty Petwalker',
+    username: 'SheWhoSleepsWithWeenies',
+    email: "reddog@ilovemydoxies.com"
+  },
+
+  {
+    id: 13,
     name: 'Samuel Soreloser',
     username: 'JustMyLuck',
     email: "IfNotBadLuck@IdHaveNoLuckAtAll.org"
   },
-  // {
-  //   id: 13,
-  //   name: 'Helga Thermister-Shultz',
-  //   username: 'SherwoodsBaby',
-  //   email: "CharliesMom@bythebeach.org"
-  // },
-  // {
-  //   id: 14,
-  //   name: "Mark",
-  //   username: "Tally",
-  //   email: "mlj@wastate.gov"
-  // }
+  {
+    id: 14,
+    name: 'Helga Thermister-Shultz',
+    username: 'SherwoodsBaby',
+    email: "CharliesMom@bythebeach.org"
+  },
+{
+    id: 15,
+    name: "Mark",
+    username: "Tally",
+    email: "mlj@wastate.gov"
+  }
+
+
 ]
